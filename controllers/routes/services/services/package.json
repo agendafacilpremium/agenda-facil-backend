@@ -1,0 +1,15 @@
+{
+  "name": "agenda-facil-backend",
+  "version": "1.0.0",
+  "description": "Backend do sistema Agenda Fácil Premium",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mercadopago": "^1.5.13"
+  }
+}
